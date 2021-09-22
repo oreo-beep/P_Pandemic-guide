@@ -1,0 +1,22 @@
+* {
+    margin        : 0;
+    padding       : 0;
+    box-sizing    : border-box;
+    font-family   : 'Raleway', sans-serif;
+}
+html {
+    font-size: 62.5%;
+}
+
+:root {
+/* variables de color */
+    --Azul    : #4A50CB;
+    --rojo     : #D72A2A;
+    --verde :#50ED4C;
+    
+
+/* variables de tamaño de letra */
+    --titulo          : 3.6rem;
+    --parrafp          : 1.8rem;
+    --subtitulo          : 2.4rem; 
+}

@@ -1,0 +1,69 @@
+.Bienvenida{
+    width:  37.5rem;
+    height: 73.1rem;
+    margin: auto;
+   
+}
+.do{
+    width: 15rem;
+    display:flex;
+    justify-content: flex-start; 
+}
+.Ci{
+    position: absolute;
+    margin-top:4rem ;
+    margin-left: 7.5rem;
+    margin-right: -1rem;
+    
+}
+
+.tit_1{
+     font-size: var(--titulo);
+     text-align: center;
+     margin-top: 4.2rem;
+     color: #6D6D6D;
+}
+
+.tit_2{
+    width: 34.7rem;
+    height: 6.3rem;
+    margin: auto;
+    margin-top: 4.1rem;
+    color: #6D6D6D;
+    text-align: center;
+    font-size: var(--parrafp);
+}
+.boto_1{
+     width: 20rem;
+     height: 4.1rem;
+     margin: auto;
+     margin-top: 5.8rem;
+     margin-left: 9rem;
+     border-radius: 33.5px;
+  
+     border: none;
+     background-color: var(--Azul);
+     cursor: pointer;
+
+}
+.boto_1 p{
+    font-size: var(--parrafp);
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.bien{
+    width: 32rem;
+    margin: auto;
+    margin-left: 4.7rem;
+}
+
+.Vex{
+    margin-left: 26.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+/*Parte home*/
+
