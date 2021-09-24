@@ -1,6 +1,6 @@
 .Bienvenida{
     width:  37.5rem;
-    height: 73.1rem;
+    height: 68.1rem;
     margin: auto;
    
 }
@@ -16,19 +16,17 @@
     margin-right: -1rem;
     
 }
-
 .tit_1{
      font-size: var(--titulo);
      text-align: center;
-     margin-top: 4.2rem;
+     margin-top: 2rem;
      color: #6D6D6D;
 }
-
 .tit_2{
     width: 34.7rem;
     height: 6.3rem;
     margin: auto;
-    margin-top: 4.1rem;
+    margin-top: 2rem;
     color: #6D6D6D;
     text-align: center;
     font-size: var(--parrafp);
@@ -37,14 +35,13 @@
      width: 20rem;
      height: 4.1rem;
      margin: auto;
-     margin-top: 5.8rem;
+     margin-top: 2rem;
      margin-left: 9rem;
      border-radius: 33.5px;
   
      border: none;
      background-color: var(--Azul);
      cursor: pointer;
-
 }
 .boto_1 p{
     font-size: var(--parrafp);
@@ -56,9 +53,8 @@
 .bien{
     width: 32rem;
     margin: auto;
-    margin-left: 4.7rem;
+    margin-left: 2.5rem;
 }
-
 .Vex{
     margin-left: 26.5rem;
     display: flex;
@@ -66,4 +62,380 @@
 }
 
 /*Parte home*/
+
+.sect_1{
+    width:  37.5rem;
+    margin: auto;
+    position: relative;
+}
+.todo{
+    width:  37.5rem;
+    height: 38rem;
+    margin: auto;
+    position: relative;
+}
+.todo:before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: linear-gradient(89.92deg, rgba(74, 80, 203, 0.4) 0.08%, rgba(249, 137, 124, 0.4) 99.95%);
+}
+.home-img{
+    width: 100%;
+    height: 38rem;
+}
+.me_1{
+    width: 6rem;
+    height: 3.2rem;
+    margin-top: 1.1rem;
+    border-radius: 0px 100px 100px 0px;
+    background-color: var(--Azul);
+    position: absolute; 
+}
+.ME{
+    width: 1.7rem;
+    height: 1.7rem;
+    margin-top:1rem;
+    margin-left:1.8rem;
+    cursor: pointer;
+}
+.rec{
+    width: 31.6rem;
+    height: 1.5rem;
+    margin-top: 23.4rem;
+    margin-left: 2.0rem;
+    position: absolute;
+    line-height: 15px;
+}
+.rec p{
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.sa{
+    width: 25.6rem;
+    height: 7.8rem;
+    position: absolute;
+    margin-top: 24.9rem;
+    margin-left: 2.0rem;
+    line-height: 39px;
+}
+.sa p{
+    color:#FFFFFF;
+    font-size: 3.6rem;
+}
+
+.tu_1{
+    width: 100%;
+    height: 10rem;
+}
+ .curva{
+     width: 100%;
+     margin-top: -5rem;
+     position: absolute;
+ }
+ .ti_cu {
+     width: 100%;
+     height: 6.2rem;
+     border: 1px solid #BBBBBB;
+     box-sizing: border-box;
+     margin-top: 1rem;
+     text-align: center;
+     position: absolute;
+     font-size: var(--titulo);
+     color: #6D6D6D;
+     padding-top: 1rem;
+ }
+
+ .sect-2{
+     width: 100%;
+     background-color: tomato;
+     position: absolute;
+     margin-top: -2.6rem;
+ }
+.cuadro_vector{
+    position: relative;
+}
+  .ca1{
+     width:  16.4rem;
+     height: 49.2rem;
+     margin-top: -0.2rem;
+     position: absolute;
+     margin-left: 21.2rem;
+ }
+ .ca2{
+    width:  16.4rem;
+    height: 49.2rem;
+    margin-top: -0.2rem;
+    position: absolute;
+    margin-left: 18.2rem;
+}
+.cuadro_vector :before{
+        content: "";
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        right: 0;
+        background: linear-gradient(89.92deg, #f9897c 0.10%, #4a50cb 99.95%);
+        
+}
+  /*Cuadros  de seguimiento*/
+ .De{
+    width: 29.6rem;
+    height: 17.7rem;
+    margin-top: 5rem;
+    margin-left: 8rem;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    background-color:#FFFFFF ;
+    border: 1px solid #4A50CB;
+    box-sizing: border-box;
+    border-radius: 15px;
+ }
+.img_ho1,.img_ho2{
+    width: 11.0rem;
+    margin-top: 2rem;
+    margin-left: -7.2rem;
+    position: absolute;
+    transform: rotate(-8.2deg);
+}.cir_1{
+    width:5.8rem;
+    height:5.8rem;
+    margin-top: 6rem;
+    margin-left:3rem ;
+    background-color:var(--Azul);
+    border-radius: 100%;
+}
+.ab{
+    width: 29.6rem;
+    height: 17.7rem;
+    margin-left: 8rem;
+    margin-top: 30rem;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    background-color:#FFFFFF ;
+    border: 1px solid #4A50CB;
+    box-sizing: border-box;
+    border-radius: 15px;
+ }
+ .cir_2{
+     width:5.8rem;
+     height:5.8rem;
+     margin-top: 6rem;
+     margin-left:2rem ;
+     background-color:#F9897C;
+     border-radius: 100%;
+ }
+ .masa{
+     width: 12.7rem;
+     height:12rem;
+     margin-left: 4rem;
+     margin-top: 3rem;
+     font-size: var(--parrafp);
+ }
+ .re{
+    width: 15.5rem;
+    height:12rem;
+    margin-left: 4rem;
+    margin-top: 3rem;
+    font-size: var(--parrafp);
+}
+.flecha1,.flecha2{
+    padding: 1.5rem;
+}
+/*Formulario  o carculadora*/
+.sect_form{
+    width:  37.5rem;
+    margin: auto;
+    background-color: darkviolet;
+}
+.fondo_1{
+    width: 100%;
+    height: 22.7rem;
+    margin: auto;
+    position: relative;
+}
+.img_de_2{
+    width: 100%;
+    height: 22.7rem;
+}
+.fondo_1:before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: linear-gradient(89.92deg, rgba(74, 80, 203, 0.7) 0.08%, rgba(249, 137, 124, 0.7) 99.95%);
+}
+.nom_1{
+    width: 25.5rem;
+    height: 5.8rem;
+    position: absolute;
+    margin-left:7rem;
+    margin-top:-14rem ;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.nom_1 p{
+    text-align: center;
+    font-size: var(--subtitulo);
+    padding-top: 1rem;
+    color: #FFFFFF;
+}
+.sect_fo_v{
+    width: 37.5rem;
+    height: 50rem;
+    position:absolute;
+    background-color:#FFFFFF;
+    margin-top: -5rem;
+    border-radius: 50px 50px 0px 0px;
+}
+.login{
+    width: 37rem;
+    height: auto;
+    padding: 2rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.primero{
+    margin-top: 5rem;
+    font-size: var(--subtitulo);
+    display: flex;
+    flex-direction: column; 
+}
+.segundo,.tercero{
+    margin-top: 2rem;
+    font-size: var(--subtitulo);
+    display: flex;
+    flex-direction: column;
+}
+.Edad,.PesoA {
+    max-width: 35rem;
+    height: 4.5rem;
+    padding: 1rem;
+    outline: none;
+    font-size: var(--parrafp);
+    margin-top: 1.2rem;
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.Altura1 {
+    max-width: 35rem;
+    height: 4.5rem;
+    padding: 1rem;
+    outline: none;
+    font-size: var(--parrafp);
+    margin-top: 1.2rem;
+    margin-bottom: 3.5rem;
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.bot{
+    width: 17.4rem;
+    height: 4.4rem;
+    border: none; 
+    margin: auto;
+    background-color: var(--Azul);
+    cursor: pointer;
+    outline: none;
+    border-radius: 100px;
+}
+.bot p{
+    padding: 1rem;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: var(--parrafp);
+}
+/* Cuadros de respuestas*/
+.mensaje{
+    width: 37.5rem;
+    margin-left: -2.2rem;
+}
+.mensaje:empty {
+    display: none;
+  }
+
+.Pri_imc,.Pri_imc_3,.Pri_imc_4,.Pri_imc_5{
+    width: 35rem;
+    height: 3rem;
+    background-color: var(--rojo);
+    margin: auto;
+    border-radius: 100px;
+    font-size: var(--parrafp);
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 3rem;
+    padding:0.5rem ;
+}
+.Pri_imc_2{
+    width: 35rem;
+    height: 3rem;
+    background-color: var(--verde);
+    margin: auto;
+    border-radius: 100px;
+    font-size: var(--parrafp);
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 3rem;
+    padding:0.5rem ;
+}
+.img_imc_1,.img_imc_2,.img_imc_3,.img_imc_4{
+    width: 17.7rem;
+    height: 17.7rem;
+    margin-left: 9rem;
+    margin-top: 1.8rem;
+    margin-bottom: 2rem;
+
+}
+.info_2{
+    width: 31.6rem;
+    height: 2.1rem;
+    margin-top: 2rem;
+    
+    margin-left: 3rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: var(--parrafp);
+    color: #6D6D6D;
+}
+.info_1,.info_3,.info_4{
+    width: 31.6rem;
+    height: 2.1rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: var(--parrafp);
+    color: #6D6D6D;
+}
+.list_1,.list_2,.list_3,.list_4{
+    width: 17.4rem;
+    height: 4.4rem;
+    margin-top: 3rem;
+    margin-left: 9.5rem;
+    text-align: center;
+    list-style: none;
+    border-radius: 100px;
+    background-color: var(--Azul);
+    font-size: var(--parrafp);
+    padding: 1rem;
+}
+.list_1 a,.list_2 a,.list_3 a,.list_4 a{
+    color: #FFFFFF;
+}
+.for_1_imc,.for_2_imc,.for_3_imc,.for_4_imc{
+    width: 37.5rem;
+    height: 10rem;
+    margin-top: 3rem;
+}
 
