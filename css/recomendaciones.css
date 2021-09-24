@@ -1,0 +1,231 @@
+section{
+    background-color: var(--Azul);
+    width: 37.5rem;
+    height: 30rem;
+    position: absolute;
+}
+.titurecomendaciones{
+    position: absolute;
+    width: 14rem;
+    height: 2.8rem;
+    left: 12rem;
+    top: 3.5rem;
+    font-weight: normal;
+    font-size: var(--subtitulo);
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+.comiendo img{
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+    left: 8rem;
+    top: 9.5rem;   
+}
+.sectionDos{
+    margin-top: 25rem;
+    background-color: white;
+    height: 120rem;
+    border-radius: 5rem;
+}
+.recomendación{
+    position: absolute;
+    width: 21rem;
+    height: 4.5rem;
+    left: 8rem;
+    top: 32.5rem;
+    border: 1px solid #6D6D6D;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.recomendación h1{
+    text-align: center;
+    font-size: var(--subtitulo);
+    font-weight: normal;
+    padding-top: 0.5rem;
+}
+.rectangulo{
+    position: absolute;
+    width: 328px;
+    height: 115px;
+    left: -12px;
+    top: 394px;
+    border: 1px solid #6D6D6D;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.rectangulo h1{
+    width: 224px;
+    position: absolute;
+    margin: 2rem 0rem 0rem 2rem;
+    font-weight: normal;
+    font-size: 18px;
+}
+.sand img{
+    position: absolute;
+    width: 11.5rem;
+    height: 12.7rem;
+    left: 26rem;
+    top: 37.9rem;
+}
+.rectangulo_2{
+    position: absolute;
+    width: 305px;
+    height: 115px;
+    left: 7rem;
+    top: 54.4rem;
+    border: 1px solid #6D6D6D;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.rectangulo_2 h1{
+    width: 20rem;
+    position: absolute;
+    margin: 2rem 0rem 0rem 8rem;
+    font-weight: normal;
+    font-size: 18px;
+}
+.plato img{
+    position: absolute;
+    width: 13.3rem;
+    height: 10.2rem;
+    left: 1.5rem;
+    top: 54.8rem;
+}
+.rectangulo_3{
+    position: absolute;
+    width: 328px;
+    height: 115px;
+    left: -12px;
+    top: 68.5rem;
+    border: 1px solid #6D6D6D;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.rectangulo_3 h1{
+    width: 219px;
+    position: absolute;
+    margin: 2rem 0rem 0rem 2rem;
+    font-weight: normal;
+    font-size: 18px;
+}
+.pera img{
+    position: absolute;
+    width: 11.5rem;
+    height: 12.7rem;
+    left: 26rem;
+    top: 68.5rem;
+}
+.fisica{
+    position: absolute;
+    width: 21rem;
+    height: 4.5rem;
+    left: 8rem;
+    top: 82.6rem;
+    border: 1px solid #6D6D6D;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.fisica h1{
+    text-align: center;
+    font-size: var(--subtitulo);
+    font-weight: normal;
+    padding-top: 0.5rem;
+}
+.deporte h1{
+    position: absolute;
+    width: 288px;
+    left: 55px;
+    top: 893px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+.cajaUno, .cajaDos, .cajaTres, .cajaCuatro {
+    position: absolute;
+    width: 136px;
+    height: 143px;
+    border: 1px solid #6D6D6D;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.cajaUno{
+    margin-left: 3.4rem;
+    top: 976px;
+}
+.cajaDos{
+    margin-left: 20.4rem;
+    top: 976px;
+}
+.cajaTres{
+    margin-left: 3.4rem;
+    top: 113.9rem;
+}
+.cajaCuatro{
+    margin-left: 20.4rem;
+    top: 113.9rem;
+}
+.cajah1, .cajah2, .cajah3, .cajah4{
+    position: absolute;
+    margin-left: 3rem;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #6D6D6D;
+}
+.cajaUno img{
+    position: absolute;
+    width: 121px;
+    height: 113px;
+    margin: 3rem 0rem 0rem 1.5rem;
+
+}
+.cajaDos img{
+    position: absolute;
+    width: 170px;
+    height: 67px;
+    margin: 6.5rem 0rem 0rem 0rem;
+
+}
+.cajaTres img{
+    width: 166px;
+    height: 102px;
+    margin: 4rem 0rem 0rem 0rem;
+
+}
+.cajaCuatro img{
+    width: 166px;
+    height: 102px;
+    margin: 4rem 0rem 0rem 0rem;
+}
+.antepe{
+    position: absolute;
+    width: 272px;
+    height: 40px;
+    left: -3px;
+    top: 1311px;
+    background: #4A50CB;
+    border-radius: 0px 100px 100px 0px;
+}
+.antepe h1{
+    margin: 1rem 0rem 0rem 2rem;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.curva{
+    position: absolute;
+    width: 37.5rem;
+    height: 139px;
+    left: 0px;
+    top: 1371px;
+}
