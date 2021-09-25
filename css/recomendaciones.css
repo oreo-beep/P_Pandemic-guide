@@ -229,3 +229,27 @@ section{
     left: 0px;
     top: 1371px;
 }
+/*Area para recomendaciones numero 2*/
+.Hamburg img{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left: 210px;
+    top: 403px;
+}
+.pescado img{
+    position: absolute;
+    width: 159.57px;
+    height: 100px;
+    left: 210px;
+    top: 693px;
+}
+/*Area para recomendaciones numero 3*/
+.aceituna img{
+    position: absolute;
+    width: 116px;
+    height: 116px;
+    left: 250px;
+    top: 394px;
+}
+    
