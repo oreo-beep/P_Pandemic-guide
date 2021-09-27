@@ -252,4 +252,25 @@ section{
     left: 250px;
     top: 394px;
 }
-    
+.banano img{
+    position: absolute;
+    width: 150px;
+    height: 109px;
+    left: 220px;
+    top: 688px;
+}
+/*Area para recomendaciones numero 4*/
+.hamburgerdos img{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left: 210px;
+    top: 403px;
+}
+.leche img{
+    position: absolute;
+    width: 148px;
+    height: 106px;
+    left: 220px;
+    top: 690px;
+}
