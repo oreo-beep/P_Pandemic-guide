@@ -1,0 +1,90 @@
+.Reco_Covd{
+    width:  37.5rem;
+    height: 75rem;
+    margin: auto;
+    position: relative;
+}
+.de_ve_co,.vect_2_covi{
+    width: 10rem;
+    height: 15rem;   
+}
+.Vector_2{
+    width: 11rem;
+    height: 17rem; 
+    margin-left: 26.5rem;
+    margin-top: -1.5rem;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+}
+.circu_cov_1,.cir_2_cov{
+    position: absolute;
+    width: 3.7rem;
+    margin-top:2rem ;
+    margin-left: -2.5rem; 
+}
+.titulo_1_cov{
+    width: 34.7rem;
+    height: 6.3rem;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom:2rem;
+    color: #6D6D6D;
+    text-align: center;
+    font-size: var(--parrafp);
+
+}.titulo_2_cov{
+    width: 34.7rem;
+    height: 6rem;
+    margin: auto;
+    margin-top: 0.1rem;
+    margin-bottom:3.5rem;
+    color: #6D6D6D;
+    text-align: center;
+    font-size: var(--parrafp);
+}
+.boton_1_cov,.boton_2_cov{
+     width: 20rem;
+     height: 4.1rem;
+     margin: auto;
+     margin-top: 2rem;
+     margin-left: 9rem;
+     border-radius: 33.5px;
+  
+     border: none;
+     background-color: #F9897C;
+     cursor: pointer;
+}
+.boton_1_cov p,.boton_2_cov p{
+    font-size: var(--parrafp);
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+}
+.Fo_1{
+    width: 32rem;
+    margin: auto;
+    margin-left: 2.5rem;
+}
+.Fo_2{
+    width: 28rem;
+    margin: auto;
+    margin-left: 3.5rem;
+}
+
+.Reco_Covd_2{
+    width:  37.5rem;
+    height: 75rem;
+    margin: auto;
+    position: relative;
+
+}
+.Vector_3{
+    width: 11rem;
+    height: 17rem; 
+    margin-left: 26.5rem;
+    margin-top: -3.9rem;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+}
