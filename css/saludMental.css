@@ -1,0 +1,90 @@
+section{
+    margin: auto;
+    width: 37.5rem;
+}
+.DE_ME{
+    width: 6rem;
+    height: 3.2rem;
+    margin-top: 2rem;
+    border-radius: 0px 100px 100px 0px;
+    background: #F9897C;
+    position: absolute; 
+}
+.ME{
+    width: 1.7rem;
+    height: 1.7rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    cursor: pointer;    
+}
+.UNO{
+    position: relative;
+    
+    width: 350px;
+    height: 56px;
+    left: 20px;
+    top: 89px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
+.UNOIMG img{
+    float: left;
+    position: relative;
+    width: 276px;
+    height: 153px;
+    left: 20px;
+    top: 10rem;
+}
+.rosa{
+    float: right;
+    width: 6.2rem;
+    height: 153px;
+    margin-top: 100px;
+    background: #F9897C;
+}
+.rectangulo, .rectangulo2, .rectangulo3{
+    float: left;
+    width: 298px;
+    height: 153px;
+    background: #F9897C;
+    border-radius: 0px 30px 0px 0px;
+}
+.rectangulo{
+    margin-top: 130px;
+}
+.rectangulo2{
+    margin-top: 30px;
+}
+.rectangulo3{
+    margin-top: 30px;
+}
+.unica{
+    position: absolute;
+    width: 177px;
+    height: 250px;
+    margin-top: 407px;
+    left: 198px;
+}
+.Texto{
+    position: relative;
+    width: 334px;
+    height: 60px;
+    top: 52px;
+    margin-left: 13px;
+    font-family: Waiting for the Sunrise;
+    font-weight: 300;
+    font-size: 36px;
+}
+.zorro{
+    position: relative;
+    width: 218px;
+    height: 199px;
+    left: 98px;
+    top: 80px;
+}
+.curvaRosa{
+    width: 375px;
+    height: 118px;
+    background-image: url(../img/rosa.svg);
+}
