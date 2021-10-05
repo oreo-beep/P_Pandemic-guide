@@ -1,0 +1,30 @@
+.cajaUno img{
+    position: absolute;
+    width: 107px;
+    height: 123px;
+}
+.cajaDos img{
+    position: absolute;
+    width: 148px;
+    height: 118px;
+    top: -4rem;
+}
+.cajaTres img{
+    position: absolute;
+    width: 81px;
+    height: 142px;
+    margin: -0.5rem 0rem 0rem 2.5rem;
+}
+.cajaTres h1{
+    margin: 0;
+    margin-left: 0.5rem;
+}
+.cajaCuatro img{
+    position: absolute;
+    width: 107px;
+    height: 100px;
+    left: 1rem;
+}
+.cajaCuatro h1{
+    margin: 0;
+}

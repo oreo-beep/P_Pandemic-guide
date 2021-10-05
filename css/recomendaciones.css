@@ -4,19 +4,19 @@ section{
     height: 30rem;
     position: absolute;
 }
-.DE_ME {
+.DE_ME{
     width: 6rem;
     height: 3.2rem;
     margin-top: 2rem;
     border-radius: 0px 100px 100px 0px;
-    background-color: var(--Azul);
+    background-color: white;
     position: absolute; 
 }
 .ME{
     width: 1.7rem;
     height: 1.7rem;
     margin-top: 0.5rem;
-    margin-left: 0.5rem;
+    margin-left: 2rem;
     cursor: pointer;    
 }
 .titurecomendaciones{

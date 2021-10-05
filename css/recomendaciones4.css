@@ -1,0 +1,32 @@
+.cajaUno img{
+    position: absolute;
+    width: 120px;
+    height: 119px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.17));
+}
+.cajaUno h1{
+    margin: 0;
+    margin-left: 1.5rem;
+}
+.cajaDos img{
+    position: absolute;
+    width: 146px;
+    height: 109px;
+    top: -2rem;
+    filter: drop-shadow(0px 4px 4px rgba(222, 222, 222, 0.66));
+}
+.cajaTres img{
+    position: absolute;
+    width: 159px;
+    height: 123px;
+    left: -1rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.17));
+}
+.cajaCuatro img{
+    position: absolute;
+    width: 79px;
+    height: 117px;
+    top: -1rem;
+    left: 2.5rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
