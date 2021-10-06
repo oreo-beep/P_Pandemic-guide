@@ -1,0 +1,106 @@
+.Section_blanco1{
+    width: 37.5rem;
+    height: 95rem;
+    margin: auto;
+    background-color: #fff;
+    position:absolute;
+    justify-content: center;
+    margin-top: -5rem;
+    border-radius: 50px 50px 0px 0px;
+}
+.Cuadro_2_Blanco{
+    width: 35rem;
+    height: 15rem;
+    margin-top: 5rem;
+    margin-left: 1.5rem;
+    color: #6D6D6D;
+    position: absolute;
+}
+.Cuadro_2_Blanco h2{
+    font-size:var(--subtitulo);
+}
+.Cuadro_2_Blanco p{
+    font-size:1.7rem;
+}
+.Recuerda_1{
+    width: 32rem;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-top: 21rem;
+    position: absolute;
+    margin-left: 1.5rem;
+    font-size: var(--subtitulo);
+    color: #6D6D6D;
+}
+.Cuadro_1_recuerda{
+    width: 35rem;
+    height: 18rem;
+    margin-top: 26.5rem;
+    margin-left: 2rem;
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+}
+.circulo1_Recomendacion,.circulo2_Recomendacion,.circulo3_Recomendacion{
+    width: 15rem;
+    height: 18rem;
+
+}
+.circu_azul,.circu_azul2,.circu_azul3{
+    width: 10rem;
+    height: 10rem;
+    background-color: #4A50CB;
+    border-radius: 100%;
+    position: absolute;
+}
+.img_circulo_azul,.img_circulo_azul1,.img_circulo_azul2{
+    width: 7rem;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    position: absolute;
+}
+.circulo1_Recomendacion p,.circulo2_Recomendacion p,.circulo3_Recomendacion p{
+    width: 8.5rem;
+    height: 5.5rem;
+    margin-top: 10rem;
+    margin-left: 1.5rem;
+    text-align: center;
+    font-size: var(--parrafp);
+    color: #6D6D6D;
+    position: absolute;
+}
+.Cuadro_Prueba_1{
+    width: 35rem;
+    height:15rem;
+    margin-top: 45rem;
+    margin-left: 1rem;
+}
+.Cuadro_Prueba_1 h2{
+    font-size:var(--subtitulo);
+    color: #6D6D6D;
+}
+.Cuadro_Prueba_1 p{
+    font-size:1.7rem;
+    color: #6D6D6D;
+}
+.cl_img{
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+.bo_1_de{
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: 19rem;
+    margin-left: 14rem;
+    background: #F9897C;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.bo_1_de p{
+    color: #fff;
+}
+.Vector_8{
+    width: 37.5rem;
+    margin-top: 5rem;
+}
