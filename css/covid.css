@@ -6,9 +6,13 @@
 }
 .sec_2_co{
     width: 37.5rem;
-    height: 38.5rem;
-    border-radius: 10px 10px 0px 0px;
+    height: 24rem;
     background-color:#F9897C;
+    margin: auto;
+}
+.Cuadros_1_2{
+    width: 37.5rem;
+    height: 24rem;
     margin: auto;
 }
 .sect_3_co{
@@ -70,28 +74,77 @@
 .img_mundial{
     width: 37.5rem;
     height: 24rem;
-    margin-top: 4.5rem;
+    position:absolute;
+}
+.bles1{
+    width: 12rem;
+    height: 24rem;
+    position: absolute;
+}
+.Cuadros_1_2{
+    width: 37.5rem;
+    height: 30rem;
+}
+.BLUE_1{ 
+    height: 24rem;
+    transform: rotate(180deg);
+    position: absolute;
+}
+.BLUE_2{
+    height: 24rem;
+    margin-left: 5rem;
+    transform: rotate(180deg);
     position: absolute;
 }
 .De_mund{
     width: 29rem;
-    height: 28rem;
+    height: 5rem;
     font-size: var(--subtitulo);
-    margin-top:16rem;
+    margin-top: 8rem;
+    border-bottom: 1px solid #FFFFFF;
     margin-left: 4.5rem;
     color: #ffff;
     position: absolute;
 }
+.De_mund_1{
+    width: 29rem;
+    height: 6.5rem;
+    font-size: var(--subtitulo);
+    margin-left: 4.5rem;
+    margin-top: 7rem;
+    border-bottom: 1px solid #FFFFFF;
+    color: #ffff;
+    position: absolute;
+    text-align: center;
+}
 .Ver_1{
     width: 17rem;
     height: 3.8rem;
-    margin-top: 30rem;
     margin-left: 9rem;
+    margin-top: 15rem;
     text-align: center;
     border: 1px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 19px;
     position: absolute;
+}
+.Ver_2{
+    width: 17rem;
+    height: 3.8rem;
+    margin-left: 9rem;
+    text-align: center;
+    margin-top: 15rem;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 19px;
+    position: absolute;
+}
+.Ver_2 p{
+    text-align: center;
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    padding-top:0.8rem;
+    
 }
 .Ver_1 p{
     text-align: center;
@@ -99,15 +152,6 @@
     color: #FFFFFF;
     padding-top:0.8rem;
     
-}
-.circu_1{
-    width:11rem;
-    height:10rem;
-    margin-top: 34.5rem;
-    margin-left: 12.5rem;
-    position: absolute;
-    background-color: #ffff;
-    border-radius: 100%;
 }
 .ul_co{
     width: 34rem;
@@ -123,95 +167,11 @@
     font-style: normal;
     font-weight: normal;
 }
-.Cuadros_1_2{
-    width: 37.5rem;
-    height:30rem;
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 5rem;
-}
-.info_img_1{
-    width: 17.5rem;
-    height:25.8rem;
-    border-radius: 0px 0px 40px 0px;
-}
-.info_img_2{
-    width: 17.5rem;
-    height:25.8rem;
-    border-radius: 0px 0px 40px 0px;
-}
-.cuadro_1_er{
-    width: 17.5rem;
-    height:27rem;
-    margin-top: 0.9rem;
-    margin-right: 0.5rem;
-    margin-left:1rem;
-    position: relative;
-}
-.cuadro_2_we{
-    width: 17.5rem;
-    height:27rem;
-    margin-top: 0.9rem;
-    margin-left: 0.5rem;
-    margin-right: 1rem;
-    position: relative;
-}
-.cuadro_1_er:before{
-    content: "";
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    background: linear-gradient(180deg, rgba(196, 196, 196, 0) 0%, #242424 100%);
-    border-radius: 0px 0px 40px 0px;
-}
-.cuadro_2_we:before{
-    content: "";
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    background: linear-gradient(180deg, rgba(196, 196, 196, 0) 0%, #242424 100%);
-    border-radius: 0px 0px 40px 0px;
-   
-}
-.de_vav,.de_deO{
-    color: #fff;
-    font-size: var(--parrafp);
-    position: absolute;
-    margin-left: 0.3rem;
-    margin-top: -6.5rem;
-}
-.cir_culo1{
-    width: 3.5rem;
-    height: 3.5rem;
-    position: absolute;
-    margin-top: -15rem;
-    margin-left: -1rem;
-    background-color:#F9897C;
-    border-radius: 100%;
-}
-.cir_culo2{
-    width: 3.5rem;
-    height: 3.5rem;
-    position: absolute;
-    margin-top: -15rem;
-    margin-left: 14.6rem;
-    background-color:#F9897C;
-    border-radius: 100%;
-}
-.cir_culo1 img{
-    width: 1.6rem;
-    height: 1.6rem;
-    margin: 0.8rem;
-}
-.cir_culo2 img{
-    width: 1.6rem;
-    height: 1.6rem;
-    margin: 0.8rem;  
-}
+
+
+
+
+
 .S_cua_1,.S_cua_2{
     width: 35.4rem;
     height: 12.5rem;
