@@ -75,6 +75,9 @@
     text-align: center;
     font-size: var(--subtitulo);
 }
+input[type=checkbox]{
+    display: none;
+}
 .boton_siguiente{
     width: 17rem;
     height: 4.4rem;
