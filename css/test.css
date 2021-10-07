@@ -73,6 +73,8 @@
     padding-top: 0.5rem;
     border-radius: 100px;
     text-align: center;
+    filter: drop-shadow(0 0 0.75rem #4A50CB);
+    cursor: pointer;
     font-size: var(--subtitulo);
 }
 input[type=checkbox]{
@@ -230,3 +232,10 @@ input[type=checkbox]{
     width: 37.5rem;
     margin-top: 5rem;
 }
+
+
+/*Cuadros */
+
+input:checked + div {
+    background-color:  var(--Azul);
+  }
