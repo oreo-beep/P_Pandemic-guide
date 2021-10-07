@@ -1,6 +1,7 @@
 section{
     margin: auto;
     width: 37.5rem;
+    
 }
 .DE_ME{
     width: 6rem;
@@ -70,7 +71,7 @@ section{
     position: relative;
     width: 334px;
     height: 60px;
-    top: 52px;
+    top: 10px;
     margin-left: 13px;
     font-family: Waiting for the Sunrise;
     font-weight: 300;
